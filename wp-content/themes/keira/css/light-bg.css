@@ -1,0 +1,351 @@
+/************************** * General Style ***************************/
+ body {
+	 background-color: #fff;
+}
+ .fixblok {
+	 background: #f6f5ff !important;
+}
+ .hvr-shutter-in-horizontal {
+	 border: 1px solid #dadceb;
+	 color: #fff;
+}
+ .draw {
+	 border: 1px solid #dadceb !important;
+}
+ .brd {
+	 border-right: 1px solid #dadceb;
+}
+ .form-control {
+	 border-color: #dadceb;
+}
+ .top-link {
+	 border: 1px solid #dadceb;
+}
+ .br-lr {
+	 border-left: 1px solid #dadceb;
+	 border-right: 1px solid #dadceb;
+}
+ .read-more {
+	 color: #9da1a5;
+}
+ .maintitle {
+	 color: #1f2235;
+}
+ .cursor {
+	 border: 1px solid #dadceb;
+}
+ .separator {
+	 color: #6e7797;
+}
+/************************** * Full Header ***************************/
+ #header {
+	 background: url(../../../images/section-4.jpg) repeat scroll center center/cover;
+}
+ #header:before {
+	 background: #000;
+}
+ #header .head-info .header-content span {
+	 color: #9da1a5;
+}
+ #header .head-info .header-content .subtitle {
+	 color: #f6f5ff;
+}
+ #header .head-info .header-content .subtitle::before {
+	 background: #dadceb;
+}
+ #header .head-info .header-content .paye {
+	 color: #f6f5ff;
+}
+ #header .head-info .header-content span.ville {
+	 color: #fff;
+}
+ #header .head-info .header-content .textfull {
+	 color: transparent;
+	 -webkit-text-stroke: 1px #fff;
+}
+ #header .head-info .header-content .location .listlocaion li:before {
+	 background: #dadceb;
+}
+/************************** * Navbar Top ***************************/
+ @media (max-width: 991px) {
+	 .navbar-wrapper .container .fullcontainer {
+		 background: transparent !important;
+	}
+}
+ .navbar-wrapper .navfixed .logo-dark {
+	 display: none;
+}
+ .navbar-wrapper .navfixed .cd-icon {
+	 background-color: #1f2235;
+}
+ .navbar-wrapper .navfixed .cd-icon::before, .navbar-wrapper .navfixed .cd-icon::after {
+	 background-color: #1f2235;
+}
+ .navbar-wrapper .navfixed.scrolled {
+	 background: #f6f5ff;
+}
+ .navbar-wrapper .navfixed.scrolled .logo-dark {
+	 display: initial;
+}
+ .navbar-wrapper .navfixed.scrolled .logo-light {
+	 display: none;
+}
+ .navbar-wrapper .navfixed.scrolled .container .fullcontainer .row .col-md-12 .iconfix .cd-nav-trigger .cd-icon {
+	 background-color: #1f2235;
+}
+ .navbar-wrapper .navfixed.scrolled .container .fullcontainer .row .col-md-12 .iconfix .cd-nav-trigger .cd-icon::before, .navbar-wrapper .navfixed.scrolled .container .fullcontainer .row .col-md-12 .iconfix .cd-nav-trigger .cd-icon::after {
+	 background-color: #1f2235;
+}
+ .navbar-wrapper .navfixed.scrolled .container .fullcontainer .row .col-md-12 .iconfix .cd-nav-trigger.close-nav .cd-icon {
+	 background-color: #fff;
+}
+ .navbar-wrapper .navfixed.nav-open .logo-light {
+	 display: none;
+}
+ .navbar-wrapper .navfixed.nav-open .logo-dark {
+	 display: initial;
+}
+ .navbar-wrapper .navfixed.nav-open .container .fullcontainer .row .col-md-12 .iconfix .cd-nav-trigger.close-nav .cd-icon:before, .navbar-wrapper .navfixed.nav-open .container .fullcontainer .row .col-md-12 .iconfix .cd-nav-trigger.close-nav .cd-icon:after {
+	 background-color: #1f2235 !important;
+}
+ .navbar-wrapper .mainmenunav .cd-primary-nav {
+	 background-image: url(../../../images/bg-paterns.png);
+	 background-color: #f6f5ff;
+}
+ .navbar-wrapper .mainmenunav .navbar .navbar-collapse li p {
+	 color: #9da1a5;
+}
+ .navbar-wrapper .mainmenunav .navinfo .navfixinfo .contact-block span {
+	 color: #9da1a5;
+}
+
+ .dl-side-content .logo {
+	 background-color: #fff;
+}
+/************************** * Sidebar Menu ***************************/
+ .dl-fixed-sidebar {
+	 background-color: #f6f5ff !important;
+}
+ .dl-fixed-sidebar .dl-menu-fixed ul li {
+	 border-bottom: 1px solid #dadceb !important;
+}
+ .dl-fixed-sidebar .dl-menu-fixed ul li a {
+	 color: #9da1a5;
+}
+ .dl-fixed-sidebar .line {
+	 background: #dadceb !important;
+}
+/************************** * About Us ***************************/
+ #about .about-blok .aboutinfo .about-img {
+	 border: 1px solid #dadceb;
+}
+ #about .about-blok .aboutinfo .about-descr .title {
+	 color: #1f2235;
+}
+ #about .about-blok .aboutinfo .about-descr .skills-bar-container li .bar-container {
+	 background: #f6f5ff;
+}
+ #about .about-blok .aboutinfo .about-descr .skills-bar-container li .progressbar-title h3, #about .about-blok .aboutinfo .about-descr .skills-bar-container li .progressbar-title .percent {
+	 color: #9da1a5;
+}
+/************************** * services ***************************/
+ #services {
+	 padding-bottom: 90px;
+}
+ #services .cont-services .servfix .services-block {
+	 box-shadow: none !important;
+}
+ #services .cont-services .servfix .services-block .read-more {
+	 color: #9da1a5;
+}
+ #services .services-item:first-of-type .services-block {
+	 background: #f6f5ff;
+}
+ #services .services-item:nth-of-type(2) .services-block {
+	 background: #faf4ff;
+	 margin-top: 20px;
+}
+ #services .services-item:last-of-type .services-block {
+	 background: #f6f5ff;
+}
+/************************** * Counetr ***************************/
+ .counter {
+	 background: #f6f5ff;
+}
+ .counter .fullcounter {
+	 border: 25px solid #fff;
+     background-color: #f6f5ff;
+}
+ .counter .fullcounter h3 span {
+	 color: #9da1a5;
+}
+/************************** * Portfolio ***************************/
+ #portfolio {
+	 padding-bottom: 90px;
+	 background: #f6f5ff;
+}
+ #portfolio .portfolio-item {
+	 background: #f6f5ff;
+}
+ #portfolio .portfolio-item .portfolio-thumbnail .overlay .content-port .fa {
+	 color: #fff;
+	 background: rgba(29, 30, 32, 0.5);
+}
+ #portfolio h4 {
+	 color: #fff;
+}
+/************************** * resume ***************************/
+
+ #resume .resume-info {
+	 box-shadow: none !important;
+}
+ #resume .maintitle {
+	 color: #1f2235;
+}
+ #resume .res-list li {
+	 color: #1f2235;
+}
+ #resume .resume-item:first-child .resume-info {
+	 background: #f6f5ff;
+}
+ #resume .resume-item:nth-child(02) .resume-info {
+	 background: #faf4ff;
+	 border-top: 3px solid #ffdb66 !important;
+	 margin-top: 20px;
+}
+ #resume .resume-item:nth-child(02) .resume-info .res-line {
+	 background: #ffdb66;
+}
+ #resume .resume-item:last-child .resume-info {
+	 border-top: 3px solid #0cc7dd !important;
+	 background: #f6f5ff;
+}
+ #resume .resume-item:last-child .resume-info .res-line {
+	 background: #0cc7dd;
+}
+/************************** * Team ***************************/
+ .team {
+	 padding-bottom: 90px;
+}
+ .team .teamiteam {
+	 box-shadow: none !important;
+}
+ .team .teamiteam .imgteam .socials-media ul li {
+	 background: #f6f5ff;
+}
+ .team .teamiteam .imgteam .socials-media ul li:hover i {
+	 color: #fff;
+}
+
+.team .teamiteam .imgteam .socials-media ul li .fa {
+	color: #626262;
+}
+ .team .teamiteam-iteam:first-of-type .teamiteam {
+	 background: #f6f5ff;
+}
+ .team .teamiteam-iteam:nth-of-type(2) .teamiteam {
+	 background: #faf4ff;
+	 margin-top: 20px;
+}
+ .team .teamiteam-iteam:last-of-type .teamiteam {
+	 background: #f6f5ff;
+}
+/************************** * journal ***************************/
+ #journal {
+	 background: #f6f5ff;
+}
+ #journal .journal-info {
+	 box-shadow: none !important;
+	 background: #fff;
+}
+
+ #journal .journal-item:first-of-type .journal-info::after {
+	 background-color: #f25850;
+}
+ 
+ #journal .journal-item:nth-of-type(02) .journal-info {
+	 margin-top: 20px;
+}
+ #journal .journal-item:nth-of-type(02) .journal-info::after {
+	 background-color: #ffdb66;
+}
+ 
+ #journal .journal-item:last-of-type .journal-info::after {
+	 background-color: #0cc7dd;
+}
+/************************** * Contact ***************************/
+ #contact {
+	 background: #f6f5ff;
+}
+ #contact .infcontactfull {
+	 border: 1px solid #dadceb;
+	 background: #fff;
+}
+ #contact .infcontactfull .contact-block span {
+	 color: #9da1a5;
+}
+ #contact .contact-form .form-inline .form-group {
+	 background-color: #fff;
+}
+ #contact .socials-media ul li {
+	 background: #fff;
+}
+ #contact .socials-media ul li i {
+	 color: #9da1a5;
+}
+ #contact .socials-media ul li .fa {
+	 color: #9da1a5;
+}
+ #contact .socials-media ul li:hover i {
+	 color: #fff;
+}
+ .form-control {
+	 border-color: #dadceb;
+	 background-color: #fff;
+	 color: #9da1a5 !important;
+}
+/************************** * Footer ***************************/
+ #footer {
+	 background: #fff;
+}
+ #footer .line {
+	 background: #dadceb !important;
+}
+/************************** * Header Follow ***************************/
+ .header-follow p:after {
+	 background-color: #dadceb;
+}
+/************************** * Sidebar fix ***************************/
+ .sidebar-contet .contentsidebar .themecolor .maintitle {
+	 color: #fff;
+}
+ .sidebar-contet .btn-purchase {
+	 border: 1px solid #dadceb;
+}
+ .sidebar-contet .btn-purchase span :nth-child(02) {
+	 color: #9da1a5;
+}
+/************************** * Bottom to TOP ***************************/
+ .top-link .fa {
+	 color: #9da1a5;
+}
+/************************** * Select Cursor ***************************/
+ ::-webkit-scrollbar-thumb {
+	 color: #fff;
+}
+ ::-webkit-scrollbar-thumb:hover {
+	 color: #fff;
+}
+ ::-webkit-selection {
+	 color: #fff;
+}
+ ::-moz-selection {
+	 color: #fff;
+}
+ ::selection {
+	 color: #fff;
+}
+ .b1, .b2 {
+	 border: none !important;
+	 box-shadow: none !important;
+}

@@ -1,0 +1,31 @@
+
+---Downloaded files---
+The import files for: keira Demo Data were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://hasnaadesign.com/keira
+Data file = /home/hro7v8jevkjk/public_html/keira/wp-content/themes/keira//inc/demo-content/default/content.xml
+Widget file = /home/hro7v8jevkjk/public_html/keira/wp-content/themes/keira//inc/demo-content/default/widgets.wie
+Customizer file = /home/hro7v8jevkjk/public_html/keira/wp-content/themes/keira//inc/demo-content/default/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+MailChimp Form : 
+
+Mailchimp Sign-Up Form - No Title - Imported
+
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - No Title - Imported
+Keira Recent Posts Thumbnail - No Title - Imported
+Tag Cloud - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+

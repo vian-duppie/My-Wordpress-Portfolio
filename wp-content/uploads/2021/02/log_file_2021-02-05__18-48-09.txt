@@ -1,0 +1,24 @@
+
+---Downloaded files---
+The import files for: bayra Demo Data were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://hasnaadesign.com/bayra
+Data file = /home/hro7v8jevkjk/public_html/bayra/wp-content/themes/bayra//inc/demo-content/default/content.xml
+Widget file = /home/hro7v8jevkjk/public_html/bayra/wp-content/themes/bayra//inc/demo-content/default/widgets.wie
+Customizer file = /home/hro7v8jevkjk/public_html/bayra/wp-content/themes/bayra//inc/demo-content/default/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+MailChimp Form : 
+
+Mailchimp Sign-Up Form - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

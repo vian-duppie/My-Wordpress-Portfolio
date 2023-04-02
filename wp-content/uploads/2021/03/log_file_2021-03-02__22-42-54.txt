@@ -1,0 +1,31 @@
+
+---Downloaded files---
+The import files for: keira Demo Data were successfully downloaded!
+Initial max execution time = 30000
+Files info:
+Site URL = http://keira.inaikas.com
+Data file = /home/rtn0ynlemr8a/public_html/keira.inaikas.com/wp-content/themes/keira//inc/demo-content/default/content.xml
+Widget file = /home/rtn0ynlemr8a/public_html/keira.inaikas.com/wp-content/themes/keira//inc/demo-content/default/widgets.wie
+Customizer file = /home/rtn0ynlemr8a/public_html/keira.inaikas.com/wp-content/themes/keira//inc/demo-content/default/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+MailChimp Form : 
+
+Mailchimp Sign-Up Form - No Title - Imported
+
+Blog Sidebar : 
+
+Rechercher - No Title - Widget already exists
+Catégories - No Title - Imported
+Keira Recent Posts Thumbnail - No Title - Imported
+Nuage d’étiquettes - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
